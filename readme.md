@@ -90,8 +90,8 @@ dtype: float64
 ```
 #### 5. Graphs between 1820-40 and 1900-20
 - From the below graph I observed that ```perlash, indian meal, beer, salt petre``` is frequently used in the period ```1820-1840``` than in 1900-1920. 
-- ```vanila, ice, soda, baking powder``` etc., are mostly used in the ```1900-1920``` than in ```1820-1840```. ```Tomato``` is mostly used in the ```early 19th century``` and ice water 
- ```1820-1840```. 
+- ```vanila, ice, soda, baking powder``` etc., are mostly used in the ```1900-1920``` than in ```1820-1840```. ```Tomato``` is mostly used in the ```early 19th century``` 
+and ice water is mostly used in ```1820-1840```. 
 - Further, ```Loaf sugar, lemon water, salt, wine, molass, yeast, paste, lemon peel, currant``` are almost used heavily in both periods but also regarded as
  most distinctive ingredients according to chi statistic.
 
