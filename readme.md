@@ -93,4 +93,4 @@ From the below graph I observed that ```perlash, indian meal, beer, salt petre``
 ```vanila, ice, soda, baking powder``` etc., are mostly used in the period ```1900-1920```. ```Tomato``` is mostly used in the ```early 19th century``` and ice water 
  ```1820-1840```. ```Loaf sugar, lemon water, salt, wine, molass, yeast, paste, lemon peel, currant``` are almost used heavily in both periods.
 
-![Receipes b/w 1820-1840 and 1900-1920](./misc/Graphs.png)
+![Receipes b/w 1820-1840 and 1900-1920](./misc/Graph.png)
