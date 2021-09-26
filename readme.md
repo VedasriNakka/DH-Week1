@@ -26,7 +26,7 @@ ingredients = ingredients.divide(recipe_sscounts, 0)
 # filter only required ingredients for 1820-1840 and 1900-1920
 edited_rows = ingredients.loc[((ingredients.index >= 1900) & (ingredients.index <= 1920)) | ((ingredients.index >= 1820) & (ingredients.index <= 1840))]
 ```
-![Receipes b/w 1820-1840 and 1900-1920](./misc/Recipes_1820-40_1900-20.JPG)
+![Receipes b/w 1820-1840 and 1900-1920](./misc/photo.JPG)
 
 #### 2. Chi2_Statics 
 Chi2 is used for selecting best feature among all feature recipes. I obsered here that "loaf sugar" is mostly used in all the periods of begining of 18th 
@@ -58,8 +58,8 @@ dtype: float64
 
 #### 3. Percentaile of recipes b/w 1900-20 
 
-Below are the percentile of mostly used recipes between 1900-1920. Water is heavily used then remaining ones. Then butter, salt etc.,
-```
+Below are the percentile of mostly used recipes between ```1900-1920```. Water is heavily used then remaining ones. Then butter, salt etc.,
+```py
 salt        1.000000
 water       0.999167
 butter      0.998333
@@ -74,8 +74,8 @@ dtype: float64
 ```
 
 #### 4. Percentaile of recipes b/w 1820-40 
-Below are the percentile of mostly used recipes between 1820-1840. In this period salt is mostly used by people then remaining ones recipes... Then water, butter etc ..,
-```
+Below are the percentile of mostly used recipes between ```1820-1840```. In this period salt is mostly used by people then remaining ones recipes... Then water, butter etc ..,
+```py
 water      1.000000
 butter     0.997423
 salt       0.994845
