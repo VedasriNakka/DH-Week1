@@ -27,7 +27,7 @@ ingredients = ingredients.divide(recipe_sscounts, 0)
 edited_rows = ingredients.loc[((ingredients.index >= 1900) & (ingredients.index <= 1920)) | ((ingredients.index >= 1820) & (ingredients.index <= 1840))]
 ```
 
-![Receipes b/w 1820-1840 and 1900-1920](./misc/Recipes_between_1820-40_and_1900-20.jpesg)
+![Receipes b/w 1820-1840 and 1900-1920](./misc/Recipes_between_1820-40_and_1900-20.jpeg)
 
 
 
