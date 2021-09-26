@@ -1,5 +1,5 @@
 
-#### Please check ![week1.ipynb](./week1.ipynb) for detailed code and analysis. The following is short analysis to the exercise question.
+#### Please check [week1.ipynb](./week1.ipynb) for detailed code and analysis. The following is short analysis to the exercise question.
 
 #### 1. Sampling the recipes between 1820-1840 and 1900-1920:
 
