@@ -71,7 +71,6 @@ milk        0.994167
 egg yolk    0.993333
 onion       0.992500
 dtype: float64
-loaf sugar 0.8533333333333334
 ```
 
 #### 4. Percentaile of recipes b/w 1820-40 
@@ -88,11 +87,10 @@ pepper     0.981959
 nutmeg     0.979381
 vinegar    0.976804
 dtype: float64
-loaf sugar 0.961340206185567
 ```
 #### 5. Graphs between 1820-40 and 1900-20
-From the below graph I observed that perlash, indian meal, beer, salt petre, is hevily used in the period 1820-1840 then 1900-1920. 
-vanila, ice, soda, baking powder etc., are mostly used in the period 1900-1920. Tomato is mostly used in the early 19th century and ice water late 18th century. 
-Loaf sugar, lemon water, salt, wine, molass, yeast, paste, lemon peel, currant are almost used heavily in both periods.
+From the below graph I observed that ```perlash, indian meal, beer, salt petre``` is frequently used in the period ```1820-1840``` than in 1900-1920. 
+```vanila, ice, soda, baking powder``` etc., are mostly used in the period ```1900-1920```. ```Tomato``` is mostly used in the ```early 19th century``` and ice water 
+ ```1820-1840```. ```Loaf sugar, lemon water, salt, wine, molass, yeast, paste, lemon peel, currant``` are almost used heavily in both periods.
 
-![Receipes b/w 1820-1840 and 1900-1920](./misc/Graphs_between_1820-40_and_1900-20.JPG)
+![Receipes b/w 1820-1840 and 1900-1920](./misc/Graphs.png)
