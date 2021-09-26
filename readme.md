@@ -93,6 +93,6 @@ dtype: float64
 - ```vanila, ice, soda, baking powder``` etc., are mostly used in the ```1900-1920``` than in ```1820-1840```. ```Tomato``` is mostly used in the ```early 19th century``` and ice water 
  ```1820-1840```. 
 - Further, ```Loaf sugar, lemon water, salt, wine, molass, yeast, paste, lemon peel, currant``` are almost used heavily in both periods but also regarded as
- most distinctive ingredients accroding to chi statistic.
+ most distinctive ingredients according to chi statistic.
 
 ![Receipes b/w 1820-1840 and 1900-1920](./misc/Graph.png)
