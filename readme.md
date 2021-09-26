@@ -21,14 +21,17 @@ ingredients = groups.sum()
 ingredients = ingredients.apply(pd.Series.value_counts).fillna(0)
 
 # normalise the counts
-ingredients = ingredients.divide(recipe_counts, 0)
+ingredients = ingredients.divide(recipe_sscounts, 0)
 
 # filter only required ingredients for 1820-1840 and 1900-1920
 edited_rows = ingredients.loc[((ingredients.index >= 1900) & (ingredients.index <= 1920)) | ((ingredients.index >= 1820) & (ingredients.index <= 1840))]
 ```
 
+![Receipes b/w 1820-1840 and 1900-1920](Recipes_between_1820-40_and_1900-20.jpesg)
 
-2. Chi2 is used for selecting best feature among all feature recipes. 
+
+
+#### 2. Chi2 is used for selecting best feature among all feature recipes. 
 I obsered here that "loaf sugar" is mostly used in all the periods of begining of 18th century and ending of 19th century with the percent 0.734. Then pearlash, rice water, baking powder, yeast etc., are mostly used recipes in the given period.
 Below are the percentile of mostly used recipes between 1900-1920. Water is heavily used then remaining ones. Then butter, salt etc.,
 Below are the percentile of mostly used recipes between 1820-1840. In this period salt is mostly used by people then remaining ones recipes .. Then water, butter etc ..,
