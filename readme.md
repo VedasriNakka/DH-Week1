@@ -28,7 +28,7 @@ edited_rows = ingredients.loc[((ingredients.index >= 1900) & (ingredients.index 
 ```
 ![Receipes b/w 1820-1840 and 1900-1920](./misc/photo.JPG)
 
-#### 2. Chi2_Statics 
+#### 2. Feature selection using chi2 statistics 
 Chi2 is used for selecting best feature among all feature recipes. I obsered here that "loaf sugar" is mostly used in all the periods of begining of 18th 
 century and ending of 19th century with the percent 0.734. Then pearlash, rice water, baking powder, yeast etc., are mostly used recipes in the given period.
 
