@@ -1,0 +1,10 @@
+Data sources
+============
+
+- ``anna-karenina.txt``: http://ilibrary.ru/text/1099/p.1/index.html (Public domain)
+- ``sonnets``: https://en.wikipedia.org/wiki/Sonnet_18 and https://en.wikipedia.org/wiki/Sonnet_116 (Public domain)
+- ``folger_shakespeare_collection.csv``: preprocessed, original data from http://www.folgerdigitaltexts.org/ (Creative Commons Attribution-NonCommercial 3.0 Unported license)
+- ``folger.tar.xz``: preprocessed, original data from http://www.folgerdigitaltexts.org/ (Creative Commons Attribution-NonCommercial 3.0 Unported license)
+- ``macbeth.json``: preprocessed, original data from http://www.folgerdigitaltexts.org/ (Creative Commons Attribution-NonCommercial 3.0 Unported license)
+- ``theatre-classique.tar.gz``: http://theatre-classique.fr/ (public domain texts)
+- ``MobyDick.txt``: novel written by Melville downloaded from Gutenber.org
