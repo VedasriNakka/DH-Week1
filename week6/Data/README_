@@ -1,0 +1,7 @@
+Data sources
+============
+
+- ``declaration-independence-pg16780.txt`` Project Gutenberg (Public domain)
+- ``federalist-83.txt`` Project Gutenberg (Public domain)
+- ``federalist-papers.csv`` http://www-stat.wharton.upenn.edu/~stine/mich/data/federalist.csv (derived from public domain texts)
+- ``federalist-papersNew2.csv`` From the previous one, but limited to Federalist papers
