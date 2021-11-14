@@ -1,0 +1,19 @@
+Data content
+============
+
+- Comedie.train.txt   The French plays in the text genre comédie (for training)
+- Comedie.test.txt    The French plays in the text genre comédie (forming the test sample)
+- federalist-papersNew2.csv http://www-stat.wharton.upenn.edu/~stine/mich/data/federalist.csv (derived from public domain texts)
+- sms_spam.csv         Dataset of SMS with ham and spam examples
+- stopwords.txt        Possible list of stopwords in English
+- stopwordSMART.txt    List of stopwords of the Smart system (Cornell Uni) in English
+- Tragedie.train.txt   The French plays in the text genre tragédie (for training)
+- Tragedie.test.txt    The French plays in the text genre tragédie (forming the test sample)
+- TragiComedie.txt     All the French plays in the text genre tragi-comédie
+- tweets.female.txt        Set of tweets written by women forming the training sample
+- tweets.female.test.txt   Set of tweets written by women forming the test sample
+- tweets.male.txt          Set of tweets written by men forming the training sample
+- tweets.male.test.txt     Set of tweets written by men forming the test sample
+
+- listWallace10.txt	Short list of 10 word-typs that could discriminate between Hamilton & Madison
+- listWallace.txt	List of 35 word-types that discriminate between articles written by Hamilton or Madison
